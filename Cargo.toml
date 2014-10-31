@@ -1,0 +1,5 @@
+[package]
+
+name = "service-lane"
+version = "0.0.1"
+authors = ["David Dias <daviddias.p@gmail.com>"]
